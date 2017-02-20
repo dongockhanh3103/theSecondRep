@@ -6,6 +6,5 @@
 <title>Insert title here</title>
 </head>HDBhad
 <body>
-<h1 ><a href="page1.jsp">hello</a> </h1>
 </body>kkkasxs
 </html>
